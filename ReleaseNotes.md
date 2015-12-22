@@ -1,3 +1,6 @@
+### New in 0.0.6 (Released 2015-12-22)
+* Built against Cake v0.6.4
+
 ### New in 0.0.5 WIP
 * Built against Cake v0.5.4
 * Update version number
